@@ -1,2 +1,1 @@
-# impfeature
-Python library to extract important features from a dataframe
+This package will explain the important features from a data file.
